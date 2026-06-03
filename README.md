@@ -1,6 +1,7 @@
 # 🌌 Cyber Clock – Jenkins CI/CD Pipeline
 
 A cyberpunk-themed live clock web app built with Python Flask, containerized with Docker, and deployed automatically through a Jenkins CI/CD pipeline with Build, Test, and Deploy stages. The pipeline is triggered from GitHub and runs automated tests using pytest before deploying the app as a running Docker container.
+
 ---
 
 ## 📋 Project Overview
