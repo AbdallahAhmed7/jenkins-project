@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'hello-world-app'
-        CONTAINER_NAME = 'hello-world-container'
+        IMAGE_NAME = 'cyber-clock-app'
+        CONTAINER_NAME = 'cyber-clock-container'
         APP_PORT = '5000'
         HOST_PORT = '8081'
     }
